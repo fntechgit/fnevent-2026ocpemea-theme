@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "2026 OCP EMEA Summit",
+    "date": "29-30 April 2026",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -16,12 +16,6 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
         "src": "tier1-default-header3.png"
       }
     ]
@@ -32,20 +26,20 @@
   },
   "widgets": {
     "schedule": {
-      "display": true,
-      "title": "Full Event Schedule"
+      "display": false,
+      "title": ""
     },
     "disqus": {
       "display": false,
-      "title": "Join the Conversation"
+      "title": ""
     },
     "image": {
       "display": false,
-      "title": "Image"
+      "title": ""
     },
     "content": {
       "display": false,
-      "body": "The YOCO Summit was created to showcase our new FNvirtual event platform. YOCO—short for “Your Company”—was dreamed up by our creative team, allowing us to play with a faux brand in the full environment. YOCO has its own guidelines, voice, and visual identity. Pretty spiffy for a company that doesn’t exist, eh?\n\n[Check out our branding guidelines!](https://www.dropbox.com/s/w7qiav79lnnl93r/__FNvirtual-YOCO-site-guidelines.pdf?dl=0)\n\nBy the way, did you notice the “sponsor” and brand partner ads peppered throughout the site? Some are real companies that we know and love; others are faux brands we created so as to not step on another company’s branded toes. We think it works pretty well. How about you? Email us at [info@fntech.com](mailto:info@fntech.com)!"
+      "body": ""
     }
   },
   "masonry": {
@@ -55,9 +49,6 @@
         "placement": "Top Left",
         "size": 2,
         "images": [
-          {
-            "src": "tier1-default-space3.png"
-          },
           {
             "src": "tier1-default-space4.png"
           }
