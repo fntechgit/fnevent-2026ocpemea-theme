@@ -19,7 +19,7 @@ Plaça de Willy Brandt
 
 Barcelona, Spain
 
-<br>
+<br/>
 
 ##### Getting to CCIB
 
@@ -29,7 +29,7 @@ Barcelona, Spain
 
 
 
-<br>
+<br/>
 
 ##### Hotel Accommodations
 
