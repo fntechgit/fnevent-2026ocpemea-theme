@@ -25,7 +25,8 @@
   },
   "siteMetadata": {
     "description": "The 2026 OCP EMEA Summit will be held April 29-30 in beautiful Barcelona, Spain! \n\nThe OCP EMEA Summit serves as a platform where global technical leaders come together to tackle the issues related to data center sustainability, energy efficiency and heat reuse in the region. The focus is on exploring how innovations from hyperscale data center operators can contribute to solving these challenges. The OCP EMEA Summit also highlights deployments of specific OCP-recognized data center equipment in the EMEA region.",
-    "title": "2026 OCP EMEA Summit"
+    "title": "2026 OCP EMEA Summit",
+    "image": "ocp-fnv-favicon.png"
   },
   "favicon": {
     "asset": "ocp-fnv-favicon.png"
