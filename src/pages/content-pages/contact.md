@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Contact
+title: CONTACT
 userRequirement: NONE
 ---
 Coming soon!
