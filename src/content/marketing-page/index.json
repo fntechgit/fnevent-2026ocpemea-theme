@@ -37,8 +37,11 @@
       "title": ""
     },
     "image": {
-      "display": false,
-      "title": ""
+      "display": true,
+      "title": "",
+      "image": {
+        "src": "ocp26e-fnv-hlschedule-v1.jpg"
+      }
     },
     "content": {
       "display": false,
