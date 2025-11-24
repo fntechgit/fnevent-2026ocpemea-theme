@@ -56,7 +56,8 @@
         "size": 2,
         "images": [
           {
-            "src": "space1.png"
+            "src": "space1.png",
+            "link": "https://www.opencompute.org/summit/emea-summit"
           }
         ]
       },
@@ -65,7 +66,8 @@
         "size": 2,
         "images": [
           {
-            "src": "space2.png"
+            "src": "space2.png",
+            "link": "https://www.opencompute.org/membership/how-to-join"
           }
         ]
       },
@@ -74,7 +76,8 @@
         "size": 2,
         "images": [
           {
-            "src": "space3.png"
+            "src": "space3.png",
+            "link": "https://www.opencompute.org/events/past-events/2025-ocp-global-summit"
           }
         ]
       },
