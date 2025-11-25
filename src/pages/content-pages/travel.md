@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Travel
+title: TRAVEL
 userRequirement: NONE
 ---
 ##### Venue & Hotel Accommodations
