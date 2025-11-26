@@ -45,6 +45,26 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "FAQ",
+      "link": "/faq",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "CONTACT",
+      "link": "/contact",
+      "display": true
     }
   ]
 }
