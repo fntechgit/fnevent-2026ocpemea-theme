@@ -65,6 +65,16 @@
       "title": "CONTACT",
       "link": "/contact",
       "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "OCP SITE",
+      "link": "https://www.opencompute.org/summit/emea-summit",
+      "display": true
     }
   ]
 }
