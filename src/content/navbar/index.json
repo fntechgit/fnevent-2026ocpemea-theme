@@ -29,6 +29,16 @@
       ]
     },
     {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "TRAVEL",
+      "link": "/Travel",
+      "display": true
+    },
+    {
       "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
