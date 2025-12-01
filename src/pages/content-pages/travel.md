@@ -3,7 +3,7 @@ templateKey: content-page
 title: TRAVEL
 userRequirement: NONE
 ---
-##### Venue & Hotel Accommodations
+### Venue & Hotel Accommodations
 
 **Event:** 2026 OCP EMEA Summit
 
@@ -13,7 +13,7 @@ userRequirement: NONE
 
 <br/>
 
-##### Summit Venue
+#### Summit Venue
 
 Barcelona International Convention Center (CCIB)
 
@@ -27,12 +27,12 @@ Barcelona, Spain
 
 <br/>
 
-##### Getting to CCIB
+#### Getting to CCIB
 
 [Click here](https://ccib.es/en/barcelona/#ccib_arribar) for helpful information on traveling to the Summit venue.
 
 <br/>
 
-##### Hotel Accommodations
+#### Hotel Accommodations
 
 [Click here](https://ccib.es/en/barcelona/#ccib_arribar) to see nearby hotel options. OCP does not have a designated room block.
