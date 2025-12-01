@@ -2511,10 +2511,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.36":
-  version "2.1.36"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.36.tgz#1417ad95977503504bb41ef414b621673f43b70c"
-  integrity sha512-t5ynzNUIdZ44HkTw5hV8Bv9vfRtqbtBeRpzU1XjLQcM7ZBELE/YhrVCSwje/tiWRFJ6NmaG4QqZ0bKgIzcS8Zg==
+"@openeventkit/event-site@2.1.37":
+  version "2.1.37"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.37.tgz#aa345e1b379b2525236082ba62d29251fb3d5048"
+  integrity sha512-G4Z5hQof7oVXPOaQfgRs+svOMcWGo3k5s+a/z09VjF2heZS26QwK/MKZa1xsf6iWkxD36DOEsAjLRUWAU7AgLA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2599,7 +2599,7 @@
     markdown-it "^12.0.0"
     moment "^2.27.0"
     moment-timezone "^0.5.31"
-    my-orders-tickets-widget "1.0.0-beta.61"
+    my-orders-tickets-widget "1.0.3"
     object.assign "^4.1.5"
     openstack-uicore-foundation "4.2.16"
     path-browserify "^1.0.1"
@@ -13864,10 +13864,10 @@ mux.js@6.0.1:
     "@babel/runtime" "^7.11.2"
     global "^4.4.0"
 
-my-orders-tickets-widget@1.0.0-beta.61:
-  version "1.0.0-beta.61"
-  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.0-beta.61.tgz#6e6b92809eae820b1faacff97934a234c3bc73ae"
-  integrity sha512-du8ZiogjVdxI50FJV/Mm1cTxkspwJpI95jH2JR3s6VvQZGgpnce5a1hMQNPWnxlXMOZWwQv8T+WNQ2DC8XbNGA==
+my-orders-tickets-widget@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.3.tgz#aa4ae1d3c36164aee4aebfbf5592b7cf2f59a459"
+  integrity sha512-eCfAd8Gq4rmndZa1JXcvJgVIxCHZHogB5Yiv3DrZOBVJSScDKQe6dj321Va8/S6JBSjJS45yawKnLRyIzZfqng==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
