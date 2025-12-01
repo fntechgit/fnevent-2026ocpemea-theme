@@ -5,7 +5,13 @@ userRequirement: NONE
 ---
 ##### Venue & Hotel Accommodations
 
+**Event:** 2026 OCP EMEA Summit
 
+**Dates:** 29-30 April
+
+**Location:** Barcelona International Convention Center (CCIB)
+
+<br/>
 
 ##### Summit Venue
 
@@ -24,10 +30,6 @@ Barcelona, Spain
 ##### Getting to CCIB
 
 [Click here](https://ccib.es/en/barcelona/#ccib_arribar) for helpful information on traveling to the Summit venue.
-
-
-
-
 
 <br/>
 
