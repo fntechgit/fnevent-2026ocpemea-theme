@@ -29,10 +29,10 @@ Barcelona, Spain
 
 #### Getting to CCIB
 
-[Click here](https://ccib.es/en/barcelona/#ccib_arribar) for helpful information on traveling to the Summit venue.
+<a href="https://ccib.es/en/barcelona/#ccib_arribar"   target="_blank">Click here</a> for helpful information on traveling to the Summit venue.
 
 <br/>
 
 #### Hotel Accommodations
 
-[Click here](https://ccib.es/en/barcelona/#ccib_arribar) to see nearby hotel options. OCP does not have a designated room block.
+<a href="https://ccib.es/en/barcelona/#ccib_arribar" target="_blank">Click here</a> to see nearby hotel options. OCP does not have a designated room block.
