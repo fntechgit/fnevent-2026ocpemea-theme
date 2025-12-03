@@ -3,6 +3,8 @@ templateKey: content-page
 title: REGISTRATION
 userRequirement: NONE
 ---
+<br/>
+
 **[CLICK HERE TO REGISTER](https://2026ocpemea.fnvirtual.app/?#registration=1)**
 
 **Event:** 2026 OCP EMEA Summit
@@ -12,8 +14,6 @@ userRequirement: NONE
 Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to registration@opencompute.org[](mailto:registration@opencompute.org)
 
 <br/>
-
-
 
 #### **Registration Options**
 
