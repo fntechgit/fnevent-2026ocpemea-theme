@@ -7,7 +7,7 @@ userRequirement: NONE
 **Dates:** 29-30 April
 **Location:** Barcelona International Convention Center (CCIB) - Barcelona, Spain
 
-Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to [registration@opencompute.org](<mailto: registration@opencompute.org>)
+Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Registration Options**
 
@@ -25,7 +25,7 @@ To apply for a media pass, please [](https://docs.google.com/forms/d/e/1FAIpQLSd
 
 **Cancelation Policy**
 
-A request to cancel your ticket must be emailed to [registration@opencompute.org](<>). Requests received on or prior to February 27, 2026 will receive a full refund. No refunds will be given after February 27, 2026.
+A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). Requests received on or prior to February 27, 2026 will receive a full refund. No refunds will be given after February 27, 2026.
 
 **How to Register:**
 
@@ -37,4 +37,4 @@ A request to cancel your ticket must be emailed to [registration@opencompute.org
 1. Navigate to the EMEA Summit event site:  [https://2026ocpemea.fnvirtual.app/](<>)
 2. Click the “Log in” button. Use the same authentication process you used above. Once you have been authenticated, a new link called “My Orders/Tickets” will appear in the green top nav bar. Click this link to see your order/tickets for this event.
 
-<a href: "https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/4f179c1dba34a93353e9cee6877e5357d22c38c8.pdf" target="_blank">Click here</a>*[](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/4f179c1dba34a93353e9cee6877e5357d22c38c8.pdf) to view the OCP event Terms and Conditions (PDF)*
+<a href: "https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/4f179c1dba34a93353e9cee6877e5357d22c38c8.pdf" target="_blank">*Click here*</a>[](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/4f179c1dba34a93353e9cee6877e5357d22c38c8.pdf) *to view the OCP event Terms and Conditions (PDF)*
