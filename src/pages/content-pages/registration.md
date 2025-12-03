@@ -3,6 +3,8 @@ templateKey: content-page
 title: REGISTRATION
 userRequirement: NONE
 ---
+<a href="https://2026ocpemea.fnvirtual.app/">**CLICK HERE TO REGISTER**</a>
+
 **Event:** 2026 OCP EMEA Summit
 **Dates:** 29–30 April
 **Location:** Barcelona International Convention Center (CCIB) - Barcelona, Spain
