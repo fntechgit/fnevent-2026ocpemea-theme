@@ -1,19 +1,19 @@
 ---
 templateKey: content-page
-title: Registration
+title: REGISTRATION
 userRequirement: NONE
 ---
 **Event:** 2026 OCP EMEA Summit
-**Dates:** 29-30 April
+**Dates:** 29–30 April
 **Location:** Barcelona International Convention Center (CCIB) - Barcelona, Spain
 
 Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Registration Options**
 
-Early Bird: $350 + VAT (3 Dec - 6 Feb)
-General: $450 + VAT (7 Feb - 28 April)
-On-site: $550 + VAT (29-30 April)
+Early Bird: $350 + VAT (3 Dec – 6 Feb)
+General: $450 + VAT (7 Feb – 28 April)
+On-site: $550 + VAT (29–30 April)
 
 *A 21% Value-Added Tax (VAT) will be added to all registration options.*
 
