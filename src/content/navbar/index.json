@@ -16,6 +16,16 @@
         "ANY"
       ],
       "showOnlyAtShowTime": false,
+      "title": "REGISTRATION",
+      "link": "/registration",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
       "title": "TRAVEL",
       "link": "/travel",
       "display": true
