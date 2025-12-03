@@ -3,6 +3,8 @@ templateKey: content-page
 title: TRAVEL
 userRequirement: NONE
 ---
+<br/>
+
 ### Venue & Hotel Accommodations
 
 **Event:** 2026 OCP EMEA Summit
