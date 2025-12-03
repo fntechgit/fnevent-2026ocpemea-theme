@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: registration
+title: Registration
 userRequirement: NONE
 ---
 **Event:** 2026 OCP EMEA Summit
