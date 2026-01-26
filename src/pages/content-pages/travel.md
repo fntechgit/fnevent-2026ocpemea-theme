@@ -39,6 +39,4 @@ Barcelona, Spain
 
 <a href="https://ccib.es/en/barcelona/#ccib_arribar" target="_blank">Click here</a> to see nearby hotel options. OCP does not have a designated room block.
 
-
-
-![](ocp26e_fnv-hotel-map_v4.jpg)
+![](ocp26e_fnv-hotel-map_v4.png)
