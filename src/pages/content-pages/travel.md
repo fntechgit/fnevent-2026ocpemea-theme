@@ -40,7 +40,8 @@ Barcelona, Spain
 There are a number of hotels very near to the CCIB listed below.
 *(OCP does not have a designated room block.)*
 
-**[Attica 21 Barcelona Mar ](https://www.attica21hotels.com/hotel-attica21-barcelona-mar/)**\
+**[Atiram Hotels](https://www.atiramhotels.com/en/)**[\
+**Attica 21 Barcelona Mar** ](https://www.attica21hotels.com/hotel-attica21-barcelona-mar/)\
 **[Hilton Diagonal Mar Barcelona](https://www.hilton.com/en/hotels/bcndmhi-hilton-diagonal-mar-barcelona/?SEO_id=GMB-EMEA-HI-BCNDMHI)** \
 [**Hotel Barcelona Princess** ](http://www.hotelbarcelonaprincess.com/)\
 [**Hotel Best Front Maritim Barcelona** ](https://www.besthotels.es/destinos-y-hoteles/best-front-maritim.html?utm_medium=organic&utm_source=google&utm_campaign=google-my-business&utm_term=google-local&utm_id=best-frontmaritim)\
