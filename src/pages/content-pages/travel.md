@@ -3,7 +3,7 @@ templateKey: content-page
 title: TRAVEL
 userRequirement: NONE
 ---
-<a href="https://ccib.es/en/barcelona/#ccib_arribar" target="_blank">Click here</a> for more recommendations from the CCIB.<br/>
+
 
 ### Venue & Hotel Accommodations
 
