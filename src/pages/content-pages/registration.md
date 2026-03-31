@@ -31,6 +31,8 @@ Registration fees include: Access to all sessions (keynotes, executive sessions,
 
 To apply for a media pass, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRACIXURPT2vVK-YETRg2KSUyLkx0exNk7WeoVLHg-J6cz2Q/viewform?usp=dialog" target="_blank">click here</a>[](https://docs.google.com/forms/d/e/1FAIpQLSdRACIXURPT2vVK-YETRg2KSUyLkx0exNk7WeoVLHg-J6cz2Q/viewform?usp=dialog). Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps.  Please allow 3 to 5 business days for a response.
 
+<br/>
+
 #### **Cancelation Policy**
 
 A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). Requests received on or prior to February 27, 2026 will receive a full refund. No refunds will be given after February 27, 2026.
@@ -41,6 +43,8 @@ A request to cancel your ticket must be emailed to [registration@opencompute.or
 
 1. Navigate to the EMEA Summit event site: <a href="https://2026ocpemea.fnvirtual.app/">https://2026ocpemea.fnvirtual.app/</a>
 2. Click the “Register now” button. Follow the log in instructions to authenticate yourself (this lets us know who you are) and complete the registration process. 
+
+<br/>
 
 #### **How to find your orders/tickets:**
 
