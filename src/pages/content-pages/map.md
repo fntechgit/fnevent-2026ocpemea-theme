@@ -3,6 +3,4 @@ templateKey: content-page
 title: MAP
 userRequirement: NONE
 ---
-###### <br/>
-
-###### Coming Soon[](registration@opencompute.org)
+![](ocp26e_map-fnv.png)
