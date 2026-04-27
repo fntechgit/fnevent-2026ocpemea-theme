@@ -25,6 +25,12 @@ On-site: $550 + VAT (29-30 April)
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, breakout sessions), expo hall, Innovation Village, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all co-located workshops. 
 
+
+
+<br/>
+
+<RegistrationForm />
+
 <br/>
 
 #### **Media and Analyst Registration**
