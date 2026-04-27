@@ -33,7 +33,7 @@
   },
   "registration": {
     "registrationMode": "LINK",
-    "registrationLink": "/register-now"
+    "registrationLink": "/registration"
   },
   "siteFont": {
     "fontFamily": "Franklin Gothic",
