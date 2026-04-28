@@ -31,6 +31,15 @@ Barcelona, Spain
 
 <a href="https://ccib.es/en/barcelona/#ccib_arribar"   target="_blank">Click here</a> for helpful information on traveling to the Summit venue.
 
+The CCIB and the Auditori Fòrum CCIB do not have their own car park. 
+These are the public car parks in the surrounding area.
+
+* BSM car park - Plaça del Fòrum
+* BSM car park - Plaça del Fòrum 2
+* Underground car park - Diagonal Mar CC
+* BSM car park - Garcia Fària bus
+* PARKIA car park - Torre Pujades
+
 <br/>
 
 #### Hotel Accommodations
