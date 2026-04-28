@@ -31,6 +31,10 @@
   "favicon": {
     "asset": "ocp-fnv-favicon.png"
   },
+  "registration": {
+    "registrationMode": "LINK",
+    "registrationLink": "/onsite-reg"
+  },
   "siteFont": {
     "fontFamily": "Franklin Gothic",
     "regularFont": {
