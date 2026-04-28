@@ -10,8 +10,6 @@ userRequirement: NONE
 
 Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to registration@opencompute.org[](mailto:registration@opencompute.org)
 
-<br/>
-
 #### **Registration Options**
 
 Early Bird: $350 + VAT (3 Dec - 6 Feb)
@@ -21,12 +19,6 @@ On-site: $550 + VAT (29-30 April)
 *A 21% Value-Added Tax (VAT) will be added to all registration options.*
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, breakout sessions), expo hall, Innovation Village, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all co-located workshops. 
-
-
-
-<br/>
-
-<RegistrationForm />
 
 <br/>
 
