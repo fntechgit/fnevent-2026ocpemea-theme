@@ -2511,10 +2511,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.51":
-  version "2.1.51"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.51.tgz#3e1e2b09f4ca07839395715640d4fe328d471d47"
-  integrity sha512-+VZH7hGM26meJQDrOtr5PdIJA5sHxRc5Yspd9brasAngymKRv+buS+k9Qd521pleGVU1iMKpJeC+vjrgQ8h6mA==
+"@openeventkit/event-site@2.1.53":
+  version "2.1.53"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.53.tgz#221985965c11be57e6818940368b273699a3f7ce"
+  integrity sha512-pDdHIa+3qyKlvby21DZpcS/bOylSjsMRYdheNZlTiCEgCd3EoM9GE+CcK5zTfskl95QqWX7RlL3vRFhd2cmzhA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2601,7 +2601,7 @@
     moment-timezone "^0.5.31"
     my-orders-tickets-widget "1.0.10"
     object.assign "^4.1.5"
-    openstack-uicore-foundation "4.2.16"
+    openstack-uicore-foundation "4.2.30"
     path-browserify "^1.0.1"
     prop-types "^15.6.0"
     react "^18.2.0"
@@ -2643,11 +2643,12 @@
     slick-carousel "^1.8.1"
     smoothscroll-polyfill "^0.4.4"
     socket.io-client "^4.5.2"
+    spark-md5 "^3.0.2"
     speakers-widget "4.0.2"
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "7.0.0"
+    summit-registration-lite "7.0.2"
     superagent "8.0.9"
     sweetalert2 "^11.11.1"
     upcoming-events-widget "3.0.7"
@@ -14593,10 +14594,10 @@ open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-openstack-uicore-foundation@4.2.16:
-  version "4.2.16"
-  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.2.16.tgz#c5d504499305eb5ed20db94281a8810c3fcd67dd"
-  integrity sha512-rBV9GAaO8H+a32eg++xA3X9TB8ETFJgZVQX7XT0OC/u//VF97qhHeORBWwSXX/Wg1zLb1bjCbolWpdzuwAzWsQ==
+openstack-uicore-foundation@4.2.30:
+  version "4.2.30"
+  resolved "https://registry.yarnpkg.com/openstack-uicore-foundation/-/openstack-uicore-foundation-4.2.30.tgz#a7671ae66bcb465d4be7cf763dd8321218725ae3"
+  integrity sha512-GSH67s/XqviESUY/gSfQ0eRIDYSoy6MX5UYE0zhCFkg7tEFVBSBbuQwEGy2/Cida/uhcxhj58Txl9FStiWsK4Q==
 
 opentracing@^0.14.7:
   version "0.14.7"
@@ -18284,6 +18285,11 @@ space-separated-tokens@^2.0.0:
   resolved "https://registry.yarnpkg.com/space-separated-tokens/-/space-separated-tokens-2.0.2.tgz#1ecd9d2350a3844572c3f4a312bceb018348859f"
   integrity sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==
 
+spark-md5@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/spark-md5/-/spark-md5-3.0.2.tgz#7952c4a30784347abcee73268e473b9c0167e3fc"
+  integrity sha512-wcFzz9cDfbuqe0FZzfi2or1sgyIrsDwmPwfZC4hiNidPdPINjeUwNfv5kldczoEAcjl9Y1L3SM7Uz2PUEQzxQw==
+
 speakers-widget@4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/speakers-widget/-/speakers-widget-4.0.2.tgz#37ab8f4b44e84b5d7b86f6bed83950d71b2ea0ea"
@@ -18765,10 +18771,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-7.0.0.tgz#029ecd07ca591e81ea6dae3c7b58ac1116592e1e"
-  integrity sha512-WZD12iDY/rfum8mFX1/aH6mas6aTTc3SHuUtCEB4mhl3nq+LArh/leVLOw/PJj9dtTi6MJyCISydeYMM8MnJyA==
+summit-registration-lite@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-7.0.2.tgz#49b268c5a6cdd58dd4cb93074dce879145a2645b"
+  integrity sha512-bIq1XrZXFQ+uCBCwhjzhqjlJZWkqwZHznH9qqXqsOnlyXOdRDnd+XxMeMzuvnSZOLDY7ivjAHEUzbmK9QeDxVA==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
